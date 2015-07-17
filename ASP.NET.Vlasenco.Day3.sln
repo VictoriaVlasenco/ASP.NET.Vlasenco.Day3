@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Task1", "ClassLibrary.Task1\ClassLibrary.Task1.csproj", "{B6194AD7-125B-4228-B43A-86046CE1387F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomialTest", "PolynomialTest\PolynomialTest.csproj", "{88A73102-A91B-4BAE-9911-3C70B7594355}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{B6194AD7-125B-4228-B43A-86046CE1387F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6194AD7-125B-4228-B43A-86046CE1387F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6194AD7-125B-4228-B43A-86046CE1387F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A73102-A91B-4BAE-9911-3C70B7594355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A73102-A91B-4BAE-9911-3C70B7594355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A73102-A91B-4BAE-9911-3C70B7594355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A73102-A91B-4BAE-9911-3C70B7594355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
